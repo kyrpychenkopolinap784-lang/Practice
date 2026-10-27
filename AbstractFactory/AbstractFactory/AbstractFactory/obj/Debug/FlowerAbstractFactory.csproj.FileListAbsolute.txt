@@ -1,0 +1,20 @@
+D:\коледж\4 курс - І семестр\КПЗ\Практині роботи\Практика 2 - Абстрактна Фабрика\Моя робота\FlowerAbstractFactory\FlowerAbstractFactory\obj\Debug\FlowerAbstractFactory.csproj.AssemblyReference.cache
+D:\коледж\4 курс - І семестр\КПЗ\Практині роботи\Практика 2 - Абстрактна Фабрика\Моя робота\FlowerAbstractFactory\FlowerAbstractFactory\obj\Debug\FlowerAbstractFactory.fFlower.resources
+D:\коледж\4 курс - І семестр\КПЗ\Практині роботи\Практика 2 - Абстрактна Фабрика\Моя робота\FlowerAbstractFactory\FlowerAbstractFactory\obj\Debug\FlowerAbstractFactory.Properties.Resources.resources
+D:\коледж\4 курс - І семестр\КПЗ\Практині роботи\Практика 2 - Абстрактна Фабрика\Моя робота\FlowerAbstractFactory\FlowerAbstractFactory\obj\Debug\FlowerAbstractFactory.csproj.GenerateResource.cache
+D:\коледж\4 курс - І семестр\КПЗ\Практині роботи\Практика 2 - Абстрактна Фабрика\Моя робота\FlowerAbstractFactory\FlowerAbstractFactory\obj\Debug\FlowerAbstractFactory.csproj.CoreCompileInputs.cache
+D:\коледж\4 курс - І семестр\КПЗ\Практині роботи\Практика 2 - Абстрактна Фабрика\Моя робота\FlowerAbstractFactory\FlowerAbstractFactory\bin\Debug\FlowerAbstractFactory.exe.config
+D:\коледж\4 курс - І семестр\КПЗ\Практині роботи\Практика 2 - Абстрактна Фабрика\Моя робота\FlowerAbstractFactory\FlowerAbstractFactory\bin\Debug\FlowerAbstractFactory.exe
+D:\коледж\4 курс - І семестр\КПЗ\Практині роботи\Практика 2 - Абстрактна Фабрика\Моя робота\FlowerAbstractFactory\FlowerAbstractFactory\bin\Debug\FlowerAbstractFactory.pdb
+D:\коледж\4 курс - І семестр\КПЗ\Практині роботи\Практика 2 - Абстрактна Фабрика\Моя робота\FlowerAbstractFactory\FlowerAbstractFactory\obj\Debug\FlowerAbstractFactory.exe
+D:\коледж\4 курс - І семестр\КПЗ\Практині роботи\Практика 2 - Абстрактна Фабрика\Моя робота\FlowerAbstractFactory\FlowerAbstractFactory\obj\Debug\FlowerAbstractFactory.pdb
+D:\коледж\4 курс - І семестр\КПЗ\Практині роботи\Моя робота\AbstractFactory_Pattern\FlowerAbstractFactory\FlowerAbstractFactory\bin\Debug\FlowerAbstractFactory.exe.config
+D:\коледж\4 курс - І семестр\КПЗ\Практині роботи\Моя робота\AbstractFactory_Pattern\FlowerAbstractFactory\FlowerAbstractFactory\bin\Debug\FlowerAbstractFactory.exe
+D:\коледж\4 курс - І семестр\КПЗ\Практині роботи\Моя робота\AbstractFactory_Pattern\FlowerAbstractFactory\FlowerAbstractFactory\bin\Debug\FlowerAbstractFactory.pdb
+D:\коледж\4 курс - І семестр\КПЗ\Практині роботи\Моя робота\AbstractFactory_Pattern\FlowerAbstractFactory\FlowerAbstractFactory\obj\Debug\FlowerAbstractFactory.csproj.AssemblyReference.cache
+D:\коледж\4 курс - І семестр\КПЗ\Практині роботи\Моя робота\AbstractFactory_Pattern\FlowerAbstractFactory\FlowerAbstractFactory\obj\Debug\FlowerAbstractFactory.fFlower.resources
+D:\коледж\4 курс - І семестр\КПЗ\Практині роботи\Моя робота\AbstractFactory_Pattern\FlowerAbstractFactory\FlowerAbstractFactory\obj\Debug\FlowerAbstractFactory.Properties.Resources.resources
+D:\коледж\4 курс - І семестр\КПЗ\Практині роботи\Моя робота\AbstractFactory_Pattern\FlowerAbstractFactory\FlowerAbstractFactory\obj\Debug\FlowerAbstractFactory.csproj.GenerateResource.cache
+D:\коледж\4 курс - І семестр\КПЗ\Практині роботи\Моя робота\AbstractFactory_Pattern\FlowerAbstractFactory\FlowerAbstractFactory\obj\Debug\FlowerAbstractFactory.csproj.CoreCompileInputs.cache
+D:\коледж\4 курс - І семестр\КПЗ\Практині роботи\Моя робота\AbstractFactory_Pattern\FlowerAbstractFactory\FlowerAbstractFactory\obj\Debug\FlowerAbstractFactory.exe
+D:\коледж\4 курс - І семестр\КПЗ\Практині роботи\Моя робота\AbstractFactory_Pattern\FlowerAbstractFactory\FlowerAbstractFactory\obj\Debug\FlowerAbstractFactory.pdb

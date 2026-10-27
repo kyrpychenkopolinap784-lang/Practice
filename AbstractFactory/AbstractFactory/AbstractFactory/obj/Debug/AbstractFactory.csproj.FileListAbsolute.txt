@@ -1,0 +1,10 @@
+D:\коледж\4 курс - І семестр\КПЗ\Практині роботи\Замовлення\Поліна\Abstract Factory\FlowerAbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csproj.AssemblyReference.cache
+D:\коледж\4 курс - І семестр\КПЗ\Практині роботи\Замовлення\Поліна\Abstract Factory\FlowerAbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csproj.GenerateResource.cache
+D:\коледж\4 курс - І семестр\КПЗ\Практині роботи\Замовлення\Поліна\Abstract Factory\FlowerAbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+D:\коледж\4 курс - І семестр\КПЗ\Практині роботи\Замовлення\Поліна\Abstract Factory\FlowerAbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.fTaxi.resources
+D:\коледж\4 курс - І семестр\КПЗ\Практині роботи\Замовлення\Поліна\Abstract Factory\FlowerAbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.Properties.Resources.resources
+D:\коледж\4 курс - І семестр\КПЗ\Практині роботи\Замовлення\Поліна\Abstract Factory\FlowerAbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+D:\коледж\4 курс - І семестр\КПЗ\Практині роботи\Замовлення\Поліна\Abstract Factory\FlowerAbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe
+D:\коледж\4 курс - І семестр\КПЗ\Практині роботи\Замовлення\Поліна\Abstract Factory\FlowerAbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
+D:\коледж\4 курс - І семестр\КПЗ\Практині роботи\Замовлення\Поліна\Abstract Factory\FlowerAbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
+D:\коледж\4 курс - І семестр\КПЗ\Практині роботи\Замовлення\Поліна\Abstract Factory\FlowerAbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb
